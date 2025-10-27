@@ -1,0 +1,11 @@
+full-width-background {
+  background-color: #d9beff;
+  width: 100%;
+}
+
+.content-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(186, 112, 255);
+}
